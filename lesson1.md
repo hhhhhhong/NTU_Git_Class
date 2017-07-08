@@ -11,5 +11,5 @@ hongminhu
 
 # My Favorite 3 Programming Languages
 * C
-* Verlog
+* Verilog
 * Systemverilog
